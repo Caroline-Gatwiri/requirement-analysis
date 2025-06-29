@@ -95,8 +95,8 @@ These define how the system performs its functions.
 - View/Cancel Booking
 - Manage Listings (Admin)
 
-![Booking System Use Case Diagram](![image](https://github.com/user-attachments/assets/ca04e3bc-69e5-4743-a528-10f5b627d80d)
-)
+![Use Case Diagram](./alx-booking-uc.png)
+
 
 ---
 
